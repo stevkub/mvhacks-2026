@@ -1,0 +1,973 @@
+scientificName,latitude,longitude,eventDate,date_year,month,day,individualCount,basisOfRecord,datasetName,vernacularName,bathymetry,sst,species_common,species_scientific
+Balaenoptera physalus,57.9916,-152.6321,2012-10-09T13:14,2012,10,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,124,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2011-01-08T05:08:14,2011,1,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9136,-152.6715,2011-06-09T10:22,2011,6,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,92,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.697333,-149.410833,2015-07-25T18:06:52,2015,7,25,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,159,7.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.887,-152.7246,2010-06-20T15:08,2010,6,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,58,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.902667,-132.6055,2004-08-26T14:08:16,2004,8,26,3,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,310,8.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8955,-169.9287,2008-06-17T20:57:50,2008,6,17,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,1678,5.25,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5945,-165.1493,2008-06-09T17:02:12,2008,6,9,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,74,4.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.959589,-152.657568,2022-08-15T13:03:59,2022,8,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-137.5,2006-12-21T00:00:00,2006,12,21,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3546,9.09,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9596,-152.583,2011-09-21T15:05,2011,9,21,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,161,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9943,-152.6017,2011-10-04T14:35,2011,10,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.953,-152.8845,2015-08-13T08:05:37,2015,8,13,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4436,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.613,-165.7632,2008-06-10T08:25:32,2008,6,10,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,77,4.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.879371,-152.747213,2017-09-15T11:07:32,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,74,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.76841,-143.970067,2013-06-30T15:30:40,2013,6,30,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3840,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.320835,-149.69415,2013-07-16T09:49:22,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,111,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.984,-146.8317,2003-07-13T08:18:17,2003,7,13,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,124,8.22,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9063,-162.7873,2000-06-14T21:20:30,2000,6,14,4,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,66,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.231302,-148.643148,2013-07-14T07:52:52,2013,7,14,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,118,8.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9076,-152.7719,2011-06-15T12:58,2011,6,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,88,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5,-142.5,2007-02-13T00:00:00,2007,2,13,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3796,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.87967,-148.88669,2013-07-14T20:31:34,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,279,7.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.866618,-145.928207,2013-07-02T06:27:48,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4251,7.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.337333,-150.508667,2015-08-21T19:27:13,2015,8,21,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,218,7.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.191317,-146.37999,2013-07-02T18:42:19,2013,7,2,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4774,7.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.92455,-152.705055,2015-10-13T12:01,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.224217,-141.287947,2013-06-24T11:12:56,2013,6,24,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3650,8.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.614228,-148.855283,2013-07-09T20:15:43,2013,7,9,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2743,7.75,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5987,-159.1183,2010-06-08T20:30:38,2010,6,8,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,79,6.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9837,-152.612,2010-10-15T14:20,2010,10,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.875333,-132.587,2004-08-26T14:19:59,2004,8,26,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,380,8.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.5794,-155.5089,2006-07-12T09:14,2006,7,12,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,63,6.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.448,-166.8296,2007-10-14,2007,10,14,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,139,5.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.895885,-152.688066,2011-10-13T11:32,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,55,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.001,-153.1368,2010-08-11T11:31,2010,8,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,114,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9837,-152.612016,2010-10-15T13:58,2010,10,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.722082,-132.673755,2019-01-04T21:52:27,2019,1,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,96,8.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9289,-152.6536,2009-10-02T11:05,2009,10,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,108,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.919911,-152.641405,2017-09-15T11:47:23,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,45,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0182,-152.5703,2011-10-08T14:54,2011,10,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,138,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,50.5,-133.5,2006-10-19T00:00:00,2006,10,19,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3294,10.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.20808,-147.065283,2013-07-13T11:44:27,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,499,8.27,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9266,-152.6949,2009-10-02T12:59,2009,10,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.719387,-147.830948,2013-07-10T17:43:01,2013,7,10,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3659,7.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9837,-153.1234,2009-06-19T12:46,2009,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,71,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.92478,-152.704041,2014-09-07T11:45,2014,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8695,-152.3652,2009-08-19T14:05,2009,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.70396,-146.403948,2013-07-13T18:54:59,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4367,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,50.5,-132.5,2006-10-21T00:00:00,2006,10,21,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3146,10.31,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-134.5,2007-02-26T00:00:00,2007,2,26,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3016,9.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0733,-153.6782,2003-07-01T15:42:53,2003,7,1,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,198,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.753297,-143.988898,2013-06-30T15:34:38,2013,6,30,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3775,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.776611,-153.438051,2017-09-13T13:23:31,2017,9,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,99,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.927828,-152.701158,2020-08-08T11:15:04,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.277,-150.275333,2015-08-21T20:36:30,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,119,7.61,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.380727,-149.015637,2013-07-15T18:27:43,2013,7,15,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,120,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.266738,-147.384678,2013-07-11T22:03:56,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2534,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-141.5,2006-11-15T00:00:00,2006,11,15,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3771,8.32,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-138.5,2006-12-22T00:00:00,2006,12,22,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3565,8.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.440363,-146.62003,2013-07-12T17:34:15,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4576,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2009-08-08T00:47:56,2009,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.924363,-152.686434,2020-10-16T13:12,2020,10,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.6567,-161.9843,2012-07-11,2012,7,11,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4165,6.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.408588,-144.398855,2013-06-30T18:30:51,2013,6,30,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3819,7.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.394,-158.4355,2000-06-10T20:06:28,2000,6,10,3,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,151,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.3563,-146.116,2011-07-10,2011,7,10,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4120,7.36,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-132.5,2006-10-24T00:00:00,2006,10,24,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2950,9.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.322303,-149.704083,2013-07-16T08:01:47,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,102,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4724,-155.8148,2000-06-10T12:39:11,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,191,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.721302,-149.668822,2021-06-12T09:55:37,2021,6,12,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,291,7.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.758802,-143.572912,2013-06-30T08:57:30,2013,6,30,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3751,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.820018,-153.524225,2016-11-10T16:55:36,2016,11,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,114,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.616333,-152.53,2015-08-16T13:23:29,2015,8,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,152,7.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.185955,-141.496037,2013-06-24T12:26:16,2013,6,24,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3648,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.923266,-152.710651,2019-10-03T10:51:39,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,131,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.327373,-149.711863,2013-07-16T08:05:20,2013,7,16,5,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,111,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.797333,-132.572833,2004-08-26T14:41:48,2004,8,26,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,404,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5,-140.5,2007-02-17T00:00:00,2007,2,17,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3573,8.29,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.138952,-144.018833,2013-06-26T11:27:47,2013,6,26,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3520,7.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9672,-152.6204,2010-08-20T14:54,2010,8,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,137,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.63178,-150.386472,2013-07-17T15:42:09,2013,7,17,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,116,7.3,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.959629,-152.657538,2022-08-15T13:03:58,2022,8,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9431,-152.6269,2015-07-21T10:30,2015,7,21,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.5435,-148.4533,2003-07-11T16:41:06,2003,7,11,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,113,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.962441,-152.555348,2014-09-20T15:44,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.288,-166.569,2010-06-18T16:58:32,2010,6,18,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,129,5.41,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.78958,-149.461441,2019-08-04T12:34:51,2019,8,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,242,7.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.179167,-136.693667,2015-09-16T13:50:05,2015,9,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1999,9.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9385,-152.6119,2013-09-18T12:53,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,102,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-07-27T01:07:38,2012,7,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5607,-155.4092,2003-06-28T12:36:00,2003,6,28,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,80,6.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.561675,-142.733775,2013-06-25T21:52:18,2013,6,25,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3740,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8974,-153.2262,2007-08-19T09:48,2007,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,-5,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.5653,-148.4747,2003-07-11T14:26:54,2003,7,11,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,120,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.931,-152.71,2010-10-06T12:46,2010,10,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9716,-152.6148,2011-07-01T15:52,2011,7,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,140,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9541,-152.6597,2015-10-29T14:54,2015,10,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.625585,-142.646875,2013-06-25T21:19:10,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3707,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.871709,-153.544356,2015-09-08T19:56:26,2015,9,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,211,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.02793,-153.496945,2020-08-13T10:49:45,2020,8,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,90,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.095,2000-06-13T20:19:35,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,39,3.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4728,-155.7927,2000-06-10T12:35:21,2000,6,10,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,193,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9415,-152.6054,2013-09-18T11:21,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,100,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.089833,-155.167833,2015-08-12T13:47:06,2015,8,12,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2110,7.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.875228,-147.309825,2013-07-11T08:28:28,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4808,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.671191,-149.602702,2024-07-21T11:44:14,2024,7,21,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,187,7.61,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.483,-156.896,2003-06-27T15:32:10,2003,6,27,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,74,6.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.923501,-152.712358,2019-10-03T10:51:27,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,131,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9742,-152.5905,2011-08-08T13:08,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.414648,-148.207277,2013-07-09T22:57:53,2013,7,9,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4967,7.57,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.560322,-142.735535,2013-06-25T21:53:00,2013,6,25,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3740,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.8925,-152.9006,2014-07-09,2014,7,9,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4488,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4188,-168.2727,2000-06-25T15:59:40,2000,6,25,6,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,146,4.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.3165,-146.746,2003-07-12T16:04:55,2003,7,12,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,184,8.28,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.312287,-149.68728,2013-07-16T07:55:44,2013,7,16,5,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,105,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.981962,-152.604502,2014-09-20T13:49,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9697,-153.3567,2008-07-09T11:35,2008,7,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,173,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.910814,-152.739593,2020-09-04T12:47:29,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,124,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-07-15T21:47,2012,7,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.136,-147.117,2015-07-24T16:05:47,2015,7,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,227,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.442833,-152.658333,2015-08-17T15:28:45,2015,8,17,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,94,6.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.108485,-148.46905,2013-07-14T09:01:58,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,185,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.95499,-148.25938,2013-07-14T10:41:50,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,276,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0567,-154.7972,2003-06-29T19:59:47,2003,6,29,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,72,6.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.906668,-152.694875,2016-11-11T11:43,2016,11,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,77,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5,-145.5,2007-01-07T00:00:00,2007,1,7,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,4008,7.4,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.041667,-144.6775,2015-08-24T10:02:40,2015,8,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,3807,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.921168,-149.000328,2013-07-08T16:49:54,2013,7,8,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4974,7.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.575,-168.8863,2002-06-23T20:49:29,2002,6,23,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,96,4.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5612,-168.5455,2002-07-27T17:13:55,2002,7,27,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,549,5.4,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:26,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9543,-164.002,2000-06-16T18:30:57,2000,6,16,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,69,3.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.931,-152.71,2010-10-06T12:46,2010,10,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9639,-152.6245,2010-08-20T14:45,2010,8,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,141,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.190212,-144.625658,2013-07-01T08:23:58,2013,7,1,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3806,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9246,-152.6443,2015-10-22T14:58,2015,10,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,76,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.952277,-152.683921,2020-08-08T11:43:07,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.784762,-153.476687,2016-07-13T10:35:05,2016,7,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.953397,-152.679631,2020-08-08T11:34:43,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.20545,-136.494141,2017-07-08T10:24:47,2017,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,136,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.493833,-137.064833,2015-09-16T18:12:56,2015,9,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2055,9.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.411,-157.9602,2000-06-10T18:43:56,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,103,6.72,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.899762,-152.747146,2020-09-04T12:47:24,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.923093,-148.30815,2013-07-14T12:03:30,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,289,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.927667,-151.058,2015-08-19T07:03:44,2015,8,19,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,972,7.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.6301,-154.4087,2009-07-14,2009,7,14,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4489,6.77,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.918,-162.7867,2000-06-14T21:23:58,2000,6,14,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,65,3.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.367612,-149.035168,2013-07-15T17:41:56,2013,7,15,13,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,130,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.662847,-148.615583,2013-07-14T22:46:58,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,225,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.0,-149.35,2024-07-20T11:50:14,2024,7,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,265,7.59,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-07-23T23:33:17,2012,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8953,-162.7878,2000-06-14T21:17:14,2000,6,14,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,65,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.059333,-155.152833,2015-08-12T13:58:07,2015,8,12,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2505,7.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.2155,-154.8738,2003-06-29T20:55:38,2003,6,29,6,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,107,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T16:57:18,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.6912,-166.9163,2008-06-13T12:13:04,2008,6,13,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,135,5.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.92,-152.6452,2012-08-31T12:03,2012,8,31,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,76,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.647667,-132.833833,2015-07-15T08:34:36,2015,7,15,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,144,8.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.536,-169.724,2008-07-11T12:34:32,2008,7,11,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,2559,5.41,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.646,-131.711833,2015-09-28T14:40:54,2015,9,28,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,383,9.21,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.7527,-167.5692,2008-07-30T14:48:06,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,863,5.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.930203,-152.654275,2015-11-04T13:04,2015,11,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,108,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.936622,-152.605437,2020-08-08T13:28:51,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,100,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926135,-152.715494,2019-10-03T10:47:19,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-06-24T12:12:26,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.879862,-152.750254,2017-09-15T12:59:42,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.520817,-150.73618,2013-07-17T20:31:01,2013,7,17,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,93,7.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-02-09T13:38:15,2012,2,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9109,-152.7743,2011-06-15T13:02,2011,6,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,69,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.3158,-154.8818,2003-06-30T10:39:24,2003,6,30,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,81,6.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.370367,-148.96216,2013-07-15T18:12:33,2013,7,15,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,120,7.75,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1187,-168.8302,2000-06-26T08:19:54,2000,6,26,16,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,587,5.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9499,-152.5687,2011-08-08T14:34,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-07-10T06:24:58,2012,7,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.3168,-146.8857,2003-07-12T15:42:48,2003,7,12,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,194,8.27,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.0,-149.35,2024-07-20T11:50:14,2024,7,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,265,7.59,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9527,-152.565,2011-08-08T13:51,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,128,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.886,-152.696,2010-06-20T12:34,2010,6,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,49,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.053392,-147.871125,2013-07-11T06:02:52,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2019,7.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9859,-152.7588,2013-07-23T12:10,2013,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,10,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9627,-152.6695,2015-10-29T14:44,2015,10,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,116,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.706667,-132.542833,2004-08-25T21:44:33,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,273,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.288722,-160.507626,2019-09-16T20:45,2019,9,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,60,6.18,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.0657,-168.8232,2000-06-26T07:18:57,2000,6,26,6,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,807,5.2,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.70891,-141.889552,2013-06-28T06:24:44,2013,6,28,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1997,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:01:27,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.892158,-152.694465,2011-10-13T11:47,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,80,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.953883,-152.623367,2021-08-19T13:00:49,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.2608,-166.5672,2010-06-18T16:49:39,2010,6,18,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,137,5.41,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9653,-152.5909,2011-08-08T14:50,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,147,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.758802,-143.572377,2013-06-30T08:58:10,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3751,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.267483,-140.891052,2013-06-24T09:40:10,2013,6,24,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3649,8.21,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.900786,-152.706464,2020-10-16T13:21:36,2020,10,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,94,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T16:43:22,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9717,-152.6145,2011-07-01T15:51,2011,7,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,140,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0417,-156.2725,2003-06-28T19:49:04,2003,6,28,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,69,6.55,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T16:57:18,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1673,-162.1083,2000-06-13T20:21:56,2000,6,13,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,40,3.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.947786,-152.691371,2020-08-08T11:29:16,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,97,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.879203,-152.751606,2017-09-15T13:01:14,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.380223,-146.546365,2013-07-12T17:03:27,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4707,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4073,-153.8217,2008-07-10T17:04,2008,7,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,138,6.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.921808,-152.640209,2017-09-15T11:48:20,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,45,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.660253,-148.611517,2013-07-14T22:48:22,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,225,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.919597,-152.757954,2012-06-19T13:10,2012,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,58,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.601,-146.062,2013-07-13T17:32:56,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4701,8.04,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.007047,-148.661367,2013-07-14T13:32:24,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,240,8.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.111,-156.1413,2003-06-27T20:24:39,2003,6,27,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,217,6.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.938485,-148.236695,2013-07-14T10:51:11,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,266,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.01101,-148.677447,2013-07-14T13:36:34,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,234,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.784762,-153.476687,2016-07-13T10:35:17,2016,7,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.956398,-152.633882,2020-08-17T12:57:45,2020,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T12:55:57,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4725,-155.8113,2000-06-10T12:38:35,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,191,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9206,-152.6865,2015-10-22T15:25,2015,10,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926405,-152.625908,2020-08-17T14:11:20,2020,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,67,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.1,-149.4,2024-07-01T04:44:46,2024,7,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,157,7.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.2787,-166.8402,2008-07-30T17:56:46,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,1098,5.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.956,-152.6399,2014-07-04T14:06,2014,7,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9453,-152.6056,2011-08-08T15:45,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9244,-152.6696,2013-08-22T12:31,2013,8,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.280118,-147.427572,2013-07-11T21:53:50,2013,7,11,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2487,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.964844,-152.624413,2024-08-29T13:09:09,2024,8,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,141,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.854564,-153.42776,2015-09-04T17:29:21,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.154444,-168.482778,2022-09-07T19:23:31,2022,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,244,5.15,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8722,-156.3268,2003-06-28T18:11:43,2003,6,28,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,183,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-131.5,2007-05-18T00:00:00,2007,5,18,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,-249,9.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.5055,-148.6175,2015-08-22T18:29:02,2015,8,22,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,80,7.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.28668,-149.63762,2013-07-16T10:10:59,2013,7,16,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,92,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0068,-152.6154,2012-10-09T12:38,2012,10,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,106,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.2795,-166.6933,2014-07-12,2014,7,12,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,1033,5.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5,-144.5,2007-01-24T00:00:00,2007,1,24,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3884,7.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9073,-152.6601,2012-06-13T10:36,2012,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,70,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.041833,-149.3285,2015-08-20T18:07:36,2015,8,20,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,224,7.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.78306,-136.758985,2013-06-23T17:38:53,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2134,9.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9888,-152.5733,2011-09-27T14:13,2011,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,161,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.9365,-152.854167,2015-08-13T11:32:50,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4424,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.395925,-144.531382,2013-07-01T09:47:48,2013,7,1,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3745,8.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.996455,-153.4021,2017-07-08T11:15:23,2017,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,41,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.283708,-149.632787,2013-07-16T10:12:44,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,93,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.839167,-132.582333,2004-08-26T14:29:15,2004,8,26,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,391,8.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.7878,-153.99,2003-07-01T11:56:37,2003,7,1,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,44,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.981183,-148.87552,2013-07-10T10:15:54,2013,7,10,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,635,7.78,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.995004,-152.491395,2014-09-20T15:29,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,86,6.59,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.027093,-148.746002,2013-07-14T13:53:55,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,201,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.7413,-168.6747,2002-07-27T16:15:03,2002,7,27,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,136,5.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.741667,-152.232,2015-09-07T11:14:46,2015,9,7,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4822,6.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.875803,-152.787947,2011-10-13T14:55,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,74,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5168,-155.477,2003-06-28T12:18:38,2003,6,28,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,75,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9143,-153.7295,2005-04-27T11:32,2005,4,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,42,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8208,-157.5795,2010-06-08T16:05:15,2010,6,8,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,105,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.952,-152.5589,2011-08-08T14:01,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,128,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.268761,-160.4898,2019-09-16T12:28:49,2019,9,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,89,6.19,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.369462,-142.509015,2013-06-25T16:23:05,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3682,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.921676,-152.69998,2020-08-08T11:12:56,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.022572,-141.796537,2013-06-27T16:24:22,2013,6,27,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3633,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.799553,-141.513413,2013-06-24T17:41:56,2013,6,24,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3612,8.16,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.982813,-152.519874,2014-09-20T15:36,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,139,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.755215,-137.007163,2013-06-23T18:34:55,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2173,9.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0053,-162.7827,2000-06-14T21:49:54,2000,6,14,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,56,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9748,-152.5878,2011-08-08T13:22,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.915364,-152.669782,2011-06-09T10:48,2011,6,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,92,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.939833,-153.009667,2015-08-13T10:59:53,2015,8,13,4,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4405,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.328302,-149.713465,2013-07-16T08:06:00,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,111,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.0075,-161.9575,2004-06-09T14:51:09,2004,6,9,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,50,4.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.0567,-168.8223,2000-06-26T07:16:18,2000,6,26,8,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,847,5.2,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.656,-147.857833,2015-07-25T10:11:41,2015,7,25,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,70,8.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.061333,-149.988,2015-08-20T13:58:48,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,295,7.38,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1685,-161.7312,2000-06-13T19:16:08,2000,6,13,4,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,69,3.72,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9093,-152.6629,2011-06-09T10:30,2011,6,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,83,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.7643,-167.589,2008-07-30T14:43:22,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,929,5.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T14:08:56,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.2493,-148.2499,2009-07-13,2009,7,13,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4258,7.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.462848,-146.084277,2013-07-02T16:30:28,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4658,7.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.7862,-162.6227,2004-06-09T12:40:50,2004,6,9,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,55,5.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.613257,-147.666437,2013-07-10T16:13:25,2013,7,10,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4948,7.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.48,-148.9365,2015-08-22T16:37:55,2015,8,22,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,186,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9424,-152.5936,2013-09-18T11:27,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,123,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.829,-152.506833,2015-08-16T21:14:27,2015,8,16,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,165,7.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.991173,-153.437698,2024-07-29T11:13:58,2024,7,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,139,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.057167,-151.629167,2015-07-26T16:09:04,2015,7,26,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,127,7.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.763068,-136.935953,2013-06-23T18:18:45,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2171,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.927732,-149.723127,2013-07-15T06:00:32,2013,7,15,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,227,7.79,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.5,-131.5,2007-05-23T00:00:00,2007,5,23,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2325,10.26,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.785117,-146.661905,2013-07-13T19:54:32,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2075,8.13,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.394947,-149.000475,2013-07-15T17:26:09,2013,7,15,9,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,117,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5,-139.5,2007-02-18T00:00:00,2007,2,18,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3353,8.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.254727,-148.677538,2013-07-14T07:39:25,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,114,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-08-06T00:10:42,2012,8,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.964127,-152.554443,2014-09-20T15:43,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.906137,-148.19161,2013-07-14T11:09:29,2013,7,14,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,264,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.799532,-136.643212,2013-06-23T17:12:29,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2097,9.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.980209,-152.518236,2014-09-20T14:35,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,139,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.927988,-144.03752,2013-06-26T14:57:12,2013,6,26,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3628,7.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.878912,-152.768598,2020-09-04T12:28:32,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,65,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.935,-152.805333,2015-08-13T11:43:26,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4401,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.885425,-145.920993,2013-07-02T06:35:03,2013,7,2,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4259,7.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9518,-152.6356,2016-09-05T14:39,2016,9,5,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.897,-148.906,2015-08-20T19:38:13,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1089,7.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9515,-152.9085,2010-07-22T11:27,2010,7,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,30,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.871,-152.7298,2012-06-13T11:48,2012,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,54,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.52,-137.102167,2015-09-17T08:11:00,2015,9,17,4,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1935,9.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.572,-155.39,2003-06-28T12:40:36,2003,6,28,18,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,79,6.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.854564,-153.42776,2015-09-04T16:52:48,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9289,-152.6825,2010-09-10T14:48,2010,9,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.975862,-152.644055,2015-10-13T13:16,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,121,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.277348,-149.623512,2013-07-16T07:05:37,2013,7,16,10,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,87,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.807667,-132.577167,2004-08-26T14:36:34,2004,8,26,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,382,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.996748,-152.503314,2014-09-20T14:54,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,137,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.7327,-163.3942,2000-06-15T08:03:44,2000,6,15,5,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,71,4.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.871709,-153.544356,2015-09-08T19:56:26,2015,9,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,211,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9698,-152.9218,2013-06-30T12:41,2013,6,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,26,6.79,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.6123,-155.9915,2003-06-28T09:40:22,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,269,6.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8983,-152.6645,2010-06-20T11:52,2010,6,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,59,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.0,-132.0,2004-08-25T21:55:29,2004,8,25,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,-90,,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.945137,-152.680368,2019-10-03T11:57:12,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.407688,-146.659005,2013-07-12T15:33:03,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4598,7.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.089817,-134.765747,2023-09-09T17:25:02,2023,9,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,252,7.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8628,-156.2927,2003-06-28T18:04:54,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,190,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-06-24T13:15:19,2012,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.96,-152.6282,2010-08-20T14:34,2010,8,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.9925,-152.011333,2015-07-27T08:04:36,2015,7,27,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,99,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9735,-152.5967,2011-07-28T13:36,2011,7,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,144,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9509,-152.9055,2010-07-22T11:25,2010,7,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,24,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.980938,-152.604791,2017-09-30T13:32:04,2017,9,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.6225,-132.725167,2015-09-19T14:18:31,2015,9,19,5,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,108,8.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.44478,-148.307238,2013-07-09T22:33:33,2013,7,9,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3930,7.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8741,-152.716,2012-06-02T13:29,2012,6,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,26,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.139,-149.977,2003-07-07T08:31:12,2003,7,7,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,208,7.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.907395,-153.588831,2015-10-25T11:59:43,2015,10,25,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,229,6.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.820018,-153.524225,2016-11-10T16:55:42,2016,11,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,114,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.062775,-144.240978,2013-06-29T11:35:15,2013,6,29,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,618,7.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.185185,-136.521606,2017-07-08T10:24:44,2017,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,136,8.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-07-23T23:10:28,2012,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-06-24T12:22:39,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.964793,-148.966813,2013-07-08T18:50:01,2013,7,8,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4980,7.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.481664,-149.116306,2023-07-08T09:01:41,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,200,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.899164,-152.747084,2020-09-04T12:46:20,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4738,-155.7463,2000-06-10T12:27:28,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,203,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.976195,-152.643849,2015-10-13T13:16,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,121,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8578,-157.3098,2010-06-08T15:18:50,2010,6,8,4,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,78,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.94819,-152.685288,2019-10-03T11:59,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,97,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.425833,-149.37,2015-08-20T09:57:45,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2297,7.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9293,-152.6857,2010-09-10T14:37,2010,9,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.945827,-152.684242,2019-10-03T11:23:22,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,97,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.63031,-145.691175,2013-07-02T11:30:04,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4246,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.951559,-152.624986,2021-08-19T12:50:03,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.302662,-148.748628,2013-07-14T07:12:27,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,129,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.289572,-147.980433,2013-07-11T13:40:30,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1696,7.94,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.274812,-144.603543,2013-07-01T08:56:18,2013,7,1,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3780,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.262678,-153.151788,2020-08-11T20:02:28,2020,8,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,54,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4113,-168.6392,2008-07-30T10:29:11,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,1772,5.44,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.905787,-141.830475,2013-06-27T17:18:18,2013,6,27,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1485,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2010-06-13T13:51:02,2010,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.492,-156.203,2003-06-27T12:30:09,2003,6,27,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,256,6.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.9883,-169.5337,2002-06-25T21:08:48,2002,6,25,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,731,5.2,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9879,-152.6411,2011-06-05T15:31,2011,6,5,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.619,-169.644,2000-06-27T18:21:12,2000,6,27,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,75,2.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.6373,-153.9178,2008-07-11T11:08,2008,7,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,116,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.526,-148.9385,2015-08-22T17:10:02,2015,8,22,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,179,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.6974,-155.9986,2009-07-14,2009,7,14,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4643,6.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.920797,-152.646066,2016-11-01T12:23,2016,11,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,76,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5523,-165.4083,2010-06-15T13:30:19,2010,6,15,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,113,5.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9612,-152.6447,2012-06-18T16:24,2012,6,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9657,-152.5492,2011-07-28T14:50,2011,7,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,124,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9553,-152.6522,2011-09-27T12:37,2011,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.903333,-152.641167,2015-08-13T12:30:32,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4479,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9263,-152.6986,2013-09-18T14:39,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.397463,-146.573963,2013-07-12T17:12:36,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4718,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9599,-152.6283,2010-08-20T14:35,2010,8,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.7363,-158.6049,2007-07-08,2007,7,8,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,5722,6.82,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9449,-152.6222,2013-09-18T13:09,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,87,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.5995,-153.9212,2003-08-27T11:24,2003,8,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,96,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926341,-152.716333,2019-10-03T10:47:46,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.438333,-148.037833,2015-08-22T20:36:49,2015,8,22,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,181,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.92022,-148.211798,2013-07-14T11:01:30,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,264,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.331667,-136.802167,2015-09-16T16:14:55,2015,9,16,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1914,9.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5383,-166.8519,2007-10-14,2007,10,14,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,137,5.38,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.345667,-150.317167,2015-07-26T09:25:00,2015,7,26,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,82,7.57,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.5563,-153.9018,2007-02-11T10:11,2007,2,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,48,6.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.368,-154.9837,2003-06-30T10:14:58,2003,6,30,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,232,6.72,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.953833,-152.998667,2015-08-13T09:51:10,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4416,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.357338,-149.758227,2013-07-16T09:02:44,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,116,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1543,-169.4433,2000-06-28T22:59:35,2000,6,28,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,542,5.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.026,-152.8448,2003-07-02T18:58:17,2003,7,2,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,156,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.9823,-156.2,2010-06-08T12:06:03,2010,6,8,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,208,6.58,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9096,-152.6695,2009-10-14T14:09,2009,10,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,92,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T12:55:57,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.479363,-149.113958,2023-07-08T08:59:42,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,200,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.854564,-153.42776,2015-09-04T17:01:02,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.956753,-152.654052,2022-08-15T12:52:10,2022,8,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.67097,-148.628625,2013-07-14T22:42:10,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,224,7.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.1073,-149.9518,2003-07-07T09:53:47,2003,7,7,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,265,7.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.2464,-166.8387,2007-07-11,2007,7,11,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,1294,5.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.788167,-152.522333,2015-08-16T20:58:44,2015,8,16,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,159,7.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:10:30,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.645167,-132.825,2015-07-15T08:32:24,2015,7,15,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,135,8.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4367,-168.677,2008-07-30T10:19:26,2008,7,30,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,1882,5.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.77908,-143.956623,2013-06-30T15:25:01,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3877,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-143.5,2006-11-07T00:00:00,2006,11,7,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3879,7.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.624911,-149.648356,2019-06-19T09:13:01,2019,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,50,7.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.507395,-149.095382,2013-07-09T12:46:59,2013,7,9,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2766,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.735075,-137.188285,2013-06-23T19:17:41,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2220,9.04,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.365025,-149.770177,2013-07-16T06:15:25,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,117,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8852,-153.2377,2007-08-19T09:38,2007,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,42,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:01:31,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.188655,-141.839418,2013-06-27T14:35:31,2013,6,27,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3690,8.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.988345,-152.50588,2014-09-20T14:47,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2010-06-13T13:48:54,2010,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.9367,-152.6618,2003-07-02T18:17:05,2003,7,2,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,163,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.95347,-152.636985,2021-08-19T12:49:53,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.778833,-132.568,2004-08-26T14:48:50,2004,8,26,3,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,387,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9711,-152.6005,2011-10-04T14:54,2011,10,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,140,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:44:34,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.943,-152.6494,2009-08-16T11:16,2009,8,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9798,-152.5997,2011-08-08T15:00,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.854564,-153.42776,2015-09-04T17:29:24,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9483,-152.9021,2010-07-22T11:24,2010,7,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,12,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.151333,-147.078,2015-07-24T15:53:32,2015,7,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,232,8.09,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.913833,-151.861167,2015-07-27T08:44:22,2015,7,27,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,171,6.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9122,-152.6667,2011-06-09T10:22,2011,6,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,92,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.955876,-152.669674,2020-08-08T11:55:44,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,111,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.657,-131.716333,2015-09-28T14:37:48,2015,9,28,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,383,9.21,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9804,-152.6384,2011-09-23T14:14,2011,9,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,131,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.577,-169.9507,2002-07-02T17:35:48,2002,7,2,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,2854,5.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.2732,-148.2049,2008-07-08,2008,7,8,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4249,7.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.94989,-152.633062,2021-08-19T12:52:11,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.416768,-149.157572,2013-07-15T19:03:09,2013,7,15,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,134,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.9505,-147.242333,2015-07-24T17:40:40,2015,7,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,89,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:48:11,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5198,-162.2038,2004-06-10T16:18:59,2004,6,10,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,73,4.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.902609,-152.74449,2020-09-04T12:47:09,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.6455,-132.604167,2004-08-25T21:19:25,2004,8,25,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,122,8.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.97115,-153.025385,2007-06-26T15:44,2007,6,26,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,65,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9663,-169.0558,2000-06-27T08:05:21,2000,6,27,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,68,2.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.06002,-148.400397,2013-07-14T09:30:19,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,195,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.839462,-142.218298,2013-06-25T06:22:57,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3673,8.04,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.145333,-154.4805,2015-08-11T15:22:10,2015,8,11,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,89,6.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.950243,-152.613751,2021-08-19T13:49:24,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,147,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.432167,-149.376833,2015-08-20T10:00:14,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2287,7.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.0567,2000-06-13T20:12:50,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,35,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8685,-152.7373,2012-06-13T13:05,2012,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,54,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.2213,-163.5415,2010-06-12T11:21:49,2010,6,12,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,85,3.34,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-07T13:31:25,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.621167,-132.5215,2015-09-19T15:43:29,2015,9,19,45,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,152,8.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9737,-152.5856,2011-08-08T13:11,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:47:35,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.94439,-152.680619,2019-10-03T11:57:03,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.903874,-152.690575,2012-06-19T12:39,2012,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,68,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.299153,-149.658513,2013-07-16T10:03:33,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,98,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9623,-152.582,2011-09-23T12:57,2011,9,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,161,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.953039,-152.686647,2015-10-13T13:33,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.762667,-132.564167,2004-08-26T14:54:07,2004,8,26,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,395,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.905667,-151.8475,2015-07-27T08:48:22,2015,7,27,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,152,6.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9759,-152.5276,2011-10-08T13:15,2011,10,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,154,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.876433,-148.924488,2013-07-14T20:12:32,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,269,7.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.027093,-148.746002,2013-07-14T13:53:52,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,201,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.334658,-149.70884,2013-07-16T09:22:34,2013,7,16,6,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,121,7.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.834145,-145.939865,2013-07-02T06:15:11,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4249,7.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.710333,-132.5435,2004-08-25T21:45:35,2004,8,25,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,307,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9753,-153.0978,2007-05-18T19:10,2007,5,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,108,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.784762,-153.476687,2016-07-13T16:59:52,2016,7,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.033,-156.2383,2003-06-28T19:55:33,2003,6,28,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,113,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.893,-147.235667,2015-07-24T18:26:38,2015,7,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,87,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.743003,-153.377825,2016-11-18T16:05:22,2016,11,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,12,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5,-144.5,2007-01-03T00:00:00,2007,1,3,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,4041,7.57,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.020535,-143.487877,2013-06-30T10:50:57,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3728,8.04,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.603392,-145.70038,2013-07-02T11:19:51,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4253,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9513,-152.6321,2013-09-18T11:27,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.8892,-152.5615,2003-07-02T17:53:38,2003,7,2,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,184,6.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.5,-145.5,2006-12-27T00:00:00,2006,12,27,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,4109,7.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9521,-152.9003,2013-07-14T12:45,2013,7,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,24,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8753,-162.789,2000-06-14T21:11:20,2000,6,14,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,63,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4715,-137.032,2015-09-16T18:03:07,2015,9,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2079,9.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9699,-152.5331,2011-07-28T14:27,2011,7,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.329062,-149.707573,2013-07-16T09:43:01,2013,7,16,5,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,114,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9628,-152.6255,2010-08-20T14:31,2010,8,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5407,-155.4427,2003-06-28T12:27:50,2003,6,28,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,75,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.959151,-152.606307,2021-08-19T13:30:10,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9745,-153.075335,2007-07-11T13:22,2007,7,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,83,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.4468,-166.8578,2008-06-20T20:51:35,2008,6,20,4,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,509,5.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8418,-169.5397,2000-06-28T07:27:52,2000,6,28,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,68,3.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.52614,-147.047853,2013-07-12T14:00:21,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1907,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.169667,-150.7525,2015-08-21T17:39:50,2015,8,21,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,140,7.48,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.934058,-152.664485,2020-09-04T15:26:36,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.1555,-164.0168,2002-06-12T17:31:13,2002,6,12,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,39,5.33,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.880438,-152.771643,2020-09-04T12:32:00,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,65,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9763,-152.5872,2011-08-08T13:14,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.488373,-148.317003,2013-07-11T15:25:17,2013,7,11,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1224,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5162,-166.9025,2008-06-13T13:06:52,2008,6,13,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,136,5.38,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.344843,-149.740762,2013-07-16T08:15:32,2013,7,16,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,116,7.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.791833,-152.0875,2015-07-27T18:18:33,2015,7,27,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,68,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.732855,-148.722872,2013-07-14T22:06:38,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,237,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T16:35:20,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.277292,-149.622468,2013-07-16T10:16:30,2013,7,16,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,87,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.308548,-148.756693,2013-07-14T07:09:07,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,128,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-141.5,2006-11-06T00:00:00,2006,11,6,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3750,8.25,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9492,-152.5662,2011-08-29T13:28,2011,8,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,100,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:10:11,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.409527,-147.829088,2013-07-11T20:20:16,2013,7,11,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1661,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.727667,-131.738167,2015-09-28T14:06:26,2015,9,28,15,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,417,9.2,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9593,-152.5634,2011-08-08T13:56,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,163,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9666,-152.634645,2017-09-30T13:08:52,2017,9,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2011-10-28T12:24:01,2011,10,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.607333,-144.764167,2015-08-24T13:43:11,2015,8,24,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,3877,7.82,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8653,-152.3589,2009-08-19T13:55,2009,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,157,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.0438,2000-06-13T20:10:34,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,35,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.953161,-152.636767,2021-08-19T12:49:57,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9417,-152.6303,2014-07-04T13:53,2014,7,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:40:28,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9385,-152.6121,2013-09-18T12:53,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,102,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.34834,-147.307693,2013-07-13T10:26:00,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,183,8.22,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9505,-152.8732,2013-07-14T13:52,2013,7,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,16,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.979,-153.1237,2009-06-19T12:36,2009,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,57,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.7758,-168.719,2010-07-15T19:10:10,2010,7,15,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,2248,5.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5,-141.5,2007-02-16T00:00:00,2007,2,16,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3615,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5613,-155.408,2003-06-28T12:36:16,2003,6,28,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,77,6.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.36,-149.298167,2015-08-20T09:31:58,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2534,7.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.3833,-153.823,2008-07-10T16:28,2008,7,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.888354,-152.69273,2016-10-07T13:21,2016,10,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,49,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.129672,-148.499603,2013-07-14T08:48:51,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,165,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9402,-152.72,2011-06-18T16:07,2011,6,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9531,-152.552,2011-08-08T14:11,2011,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:47:53,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.754323,-137.015497,2013-06-23T18:36:49,2013,6,23,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2173,9.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-07-23T23:28:31,2012,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.989725,-153.432985,2024-07-29T10:51:37,2024,7,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,192,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1917,-154.8108,2003-06-29T20:41:47,2003,6,29,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,78,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8297,-152.1599,2010-06-23T11:29,2010,6,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,41,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.853,-162.7902,2000-06-14T21:04:45,2000,6,14,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,62,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.952859,-152.678111,2020-08-08T11:32:50,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.452935,-146.806122,2013-07-12T14:58:43,2013,7,12,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4589,7.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.376917,-148.999937,2013-07-15T18:23:49,2013,7,15,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,119,7.75,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5333,-165.4077,2010-06-15T13:24:03,2010,6,15,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,112,5.35,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.949495,-152.630169,2019-10-03T13:10:12,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.912217,-152.689957,2014-09-07T12:41,2014,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,95,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.900478,-152.745977,2019-09-27T11:42:53,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.5,-143.5,2006-12-25T00:00:00,2006,12,25,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3955,7.78,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.153847,-141.795528,2013-06-27T15:17:59,2013,6,27,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3664,8.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.337528,-149.729005,2013-07-16T08:11:34,2013,7,16,6,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,112,7.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.3,-162.2195,2004-06-10T17:26:48,2004,6,10,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,73,4.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2008-06-22T11:35:04,2008,6,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.989385,-152.569625,2014-09-20T14:15,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,161,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.501072,-142.46889,2013-06-25T17:16:44,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3715,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.882833,-152.5905,2015-08-13T12:43:13,2015,8,13,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4437,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.887,-152.594333,2015-09-07T16:08:28,2015,9,7,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4464,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.04789,-148.83795,2013-07-14T14:17:51,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,185,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.871709,-153.544356,2015-09-08T10:26:33,2015,9,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,211,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.900877,-152.706652,2020-10-16T13:21:33,2020,10,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,94,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.488819,-149.123729,2023-07-08T09:08:54,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,203,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-140.5,2006-10-30T00:00:00,2006,10,30,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3620,8.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8685,-152.7371,2012-06-13T13:04,2012,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,54,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4917,-155.5105,2003-06-28T12:09:13,2003,6,28,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,71,6.53,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.579967,-142.708773,2013-06-25T21:42:48,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3734,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.784762,-153.476687,2016-07-13T10:36:39,2016,7,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9983,-152.6194,2012-10-09T12:29,2012,10,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.72338,-143.58456,2013-06-30T08:43:52,2013,6,30,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3751,7.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.266297,-148.694602,2013-07-14T07:32:47,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,121,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.899333,-146.867167,2015-08-23T17:46:06,2015,8,23,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,66,8.24,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.305965,-149.676667,2013-07-16T07:51:57,2013,7,16,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,98,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.979222,-152.52007,2014-09-20T14:34,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,139,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.514742,-149.112583,2013-07-09T12:51:42,2013,7,9,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2704,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.0257,2000-06-13T20:07:21,2000,6,13,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,36,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.909667,-148.9455,2015-08-20T19:30:14,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,947,7.77,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.912,-148.953667,2015-07-25T16:00:29,2015,7,25,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,132,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.874549,-152.791738,2011-10-13T15:15,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,48,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8822,-162.7887,2000-06-14T21:13:22,2000,6,14,3,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,63,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.0313,2000-06-13T20:08:22,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,36,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.331933,-149.713035,2013-07-16T09:40:23,2013,7,16,5,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,111,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.773793,-143.56853,2013-06-30T09:03:13,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3750,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.037603,-148.793108,2013-07-14T14:06:00,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,192,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.907584,-152.676206,2012-06-19T12:05,2012,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,74,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-07-10T06:24:41,2012,7,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926173,-152.715615,2019-10-03T10:47:23,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.937185,-148.234977,2013-07-14T10:51:54,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,266,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2009-08-07T01:03:30,2009,8,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.7185,-151.844833,2015-08-13T19:20:41,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4937,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.490403,-149.125372,2023-07-08T09:09:16,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,207,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.7352,-165.7702,2008-06-10T07:49:27,2008,6,10,7,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,76,3.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.8755,-132.4215,2004-08-26T14:17:25,2004,8,26,3,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,110,8.94,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.879833,-152.6035,2015-08-26T09:55:51,2015,8,26,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,150,7.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.603142,-148.818865,2013-07-09T20:25:01,2013,7,9,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2812,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901688,-152.740538,2019-09-27T11:55:14,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,123,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.97491,-152.539588,2014-09-20T15:39,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,146,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.813,-157.6378,2010-06-08T16:15:16,2010,6,8,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,103,6.55,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.97807,-152.590321,2018-08-24T13:45:12,2018,8,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.684805,-148.650978,2013-07-14T22:33:57,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,221,7.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.669833,-152.196,2015-08-14T18:42:10,2015,8,14,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4290,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,50.5,-134.5,2006-12-18T00:00:00,2006,12,18,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3451,9.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:29:08,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.951953,-152.614185,2021-08-19T13:42:13,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,147,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.003792,-147.496538,2013-07-11T10:02:20,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3350,7.78,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4758,-164.0125,2000-06-16T07:52:01,2000,6,16,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,91,5.34,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.0922,-153.798,2010-06-06T17:11:17,2010,6,6,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,223,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.9738,-169.902,2010-07-02T10:10:18,2010,7,2,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,815,5.19,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.944,-152.606,2013-09-18T11:32,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.988666,-153.378167,2003-08-28T10:11,2003,8,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,123,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.046865,-145.113402,2013-07-01T14:57:19,2013,7,1,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3918,7.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.6315,-155.3597,2003-06-28T13:07:03,2003,6,28,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,101,6.55,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.7875,-136.726293,2013-06-23T17:31:24,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2123,9.09,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.5,-140.5,2006-11-17T00:00:00,2006,11,17,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3622,8.72,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.626333,-132.661833,2004-08-25T21:07:17,2004,8,25,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,121,8.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.973442,-142.235835,2013-06-27T11:59:04,2013,6,27,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3594,7.96,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9977,-152.6122,2009-10-14T12:46,2009,10,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,129,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.523688,-149.139645,2013-07-09T12:58:36,2013,7,9,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2684,7.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.5,-137.5,2006-10-28T00:00:00,2006,10,28,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3049,8.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.5,-144.5,2006-12-26T00:00:00,2006,12,26,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3981,7.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.803101,-153.513512,2010-06-13T13:50:03,2010,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.9705,-169.8143,2010-07-02T09:55:46,2010,7,2,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,719,5.18,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5077,-155.4897,2003-06-28T12:15:12,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,67,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.216,-133.9705,2011-07-08,2011,7,8,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,3259,10.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.434055,-147.607445,2013-07-13T09:07:03,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,115,8.13,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.3025,-150.148833,2015-08-21T21:01:54,2015,8,21,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,166,7.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:00:44,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4628,-163.3993,2000-06-15T09:26:00,2000,6,15,3,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,80,4.61,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-06-24T12:38:02,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.821442,-146.770393,2013-07-13T20:20:28,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2133,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.953982,-152.637286,2021-08-19T12:49:44,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,50.7346,-132.5761,2009-07-11,2009,7,11,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,2917,10.28,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.930667,-152.6475,2015-08-26T09:23:26,2015,8,26,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,147,6.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.6281,-153.9389,2007-08-11T08:50,2007,8,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,97,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.947802,-143.738552,2013-06-30T13:55:44,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3674,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.976152,-149.924347,2013-07-15T06:50:20,2013,7,15,13,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,217,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.616547,-146.119207,2013-07-13T17:48:13,2013,7,13,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4707,8.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.758355,-136.977333,2013-06-23T18:28:08,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2168,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.086167,-136.617667,2015-09-17T13:06:36,2015,9,17,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1999,9.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.5,-134.5,2006-12-19T00:00:00,2006,12,19,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3227,9.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.65,-133.966667,2004-08-25T19:41:00,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,227,9.36,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5,-143.5,2007-01-20T00:00:00,2007,1,20,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3853,7.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.014318,-145.153275,2013-07-01T15:14:49,2013,7,1,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3899,7.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.641,-148.969167,2015-08-21T10:59:01,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,124,7.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.2493,-148.2499,2009-07-13,2009,7,13,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4258,7.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9496,-152.5649,2011-08-29T13:28,2011,8,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,100,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8827,-162.1787,2000-06-13T21:59:16,2000,6,13,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,64,3.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.6245,-151.945167,2015-08-13T15:56:28,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4386,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.1925,-147.1915,2015-08-23T07:36:13,2015,8,23,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,559,8.25,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1427,-169.4392,2002-06-25T20:07:06,2002,6,25,6,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,531,5.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.918232,-147.086632,2013-07-13T21:35:43,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2402,8.21,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.237932,-147.120797,2013-07-13T11:28:14,2013,7,13,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,239,8.26,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5138,-155.4812,2003-06-28T12:17:31,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,70,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.615167,-148.944,2015-08-21T10:48:47,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,102,7.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.2215,-164.0138,2002-06-12T17:50:14,2002,6,12,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,53,5.33,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.412802,-146.676308,2013-07-12T15:29:06,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4573,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.3153,-154.8808,2003-06-30T10:39:36,2003,6,30,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,81,6.71,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.852167,-152.498833,2015-08-16T21:23:20,2015,8,16,4,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,164,7.05,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926222,-152.700212,2015-10-13T13:56,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.925157,-152.722496,2019-09-27T12:06:15,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,121,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.688755,-146.198062,2013-07-13T16:31:54,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4516,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.984122,-152.510524,2014-09-20T14:38,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,157,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.626292,-143.615242,2013-06-30T08:06:44,2013,6,30,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3777,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4267,-153.8391,2007-02-10T14:34,2007,2,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,-25,6.82,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872,-152.3984,2009-08-19T11:13,2009,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,108,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:47:43,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.956179,-152.631789,2021-08-19T12:59:54,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.98474,-149.960018,2013-07-15T07:00:27,2013,7,15,8,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,215,7.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.668308,-145.840715,2013-07-02T14:50:01,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4438,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.751804,-153.35519,2018-09-13T11:17:28,2018,9,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,-9,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9333,-156.4567,2003-06-28T18:48:54,2003,6,28,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,82,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.233125,-144.615033,2013-07-01T08:40:17,2013,7,1,8,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3804,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.955275,-152.62754,2021-08-19T13:04:25,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0487,-165.1625,2008-06-09T19:24:27,2008,6,9,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,54,3.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4153,-155.8977,2003-06-27T09:19:11,2003,6,27,11,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-144.5,2006-11-08T00:00:00,2006,11,8,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3525,7.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9539,-152.5823,2011-09-27T13:15,2011,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,141,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.77026,-136.866943,2013-06-23T18:03:10,2013,6,23,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2166,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.4845,-149.3465,2015-08-22T14:40:51,2015,8,22,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,157,7.82,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.541167,-155.288333,2015-08-12T10:25:08,2015,8,12,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,896,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.991931,-152.575374,2014-09-20T14:10,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.951731,-152.68331,2020-08-08T11:32:53,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.903841,-152.718158,2022-08-15T10:59:35,2022,8,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,100,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4445,-149.384167,2015-08-20T10:06:29,2015,8,20,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2189,7.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.952897,-152.625494,2021-08-19T12:49:56,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.6426,-153.9191,2007-08-11T08:28,2007,8,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,131,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.895232,-148.200088,2013-07-14T11:35:33,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,271,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-07-23T23:28:31,2012,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8865,-162.1785,2000-06-13T21:58:06,2000,6,13,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,63,3.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.954006,-152.676229,2020-08-08T11:32:54,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:31:02,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.359828,-148.83722,2013-07-14T06:25:53,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,161,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901159,-152.713497,2020-08-08T11:00:55,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,71,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.86574,-152.736996,2011-10-13T13:58,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,38,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.444167,-151.658667,2015-08-14T21:03:31,2015,8,14,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4018,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.6043,-155.3337,2003-06-28T12:54:11,2003,6,28,11,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,73,6.55,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:19:46,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.0147,-147.9597,2003-07-11T19:51:13,2003,7,11,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,238,8.16,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.327388,-148.781635,2013-07-14T06:58:53,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,128,8.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9026,-152.7426,2011-08-17T10:20,2011,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.939833,-153.004833,2015-08-13T11:00:55,2015,8,13,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4408,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.996512,-148.316807,2013-07-14T10:07:49,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,239,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.3069,-152.9257,2005-07-23T08:12,2005,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,79,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.2165,-136.723333,2015-09-16T14:03:41,2015,9,16,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2059,9.03,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.735,-152.548333,2015-08-16T20:37:58,2015,8,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,156,7.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.5,-141.5,2007-02-15T00:00:00,2007,2,15,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3573,8.33,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.114,-168.9228,2002-07-02T21:19:17,2002,7,2,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,2068,5.48,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.87487,-152.737924,2017-10-11T11:50:28,2017,10,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,54,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9183,-152.6749,2013-08-22T13:06,2013,8,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.776696,-153.45552,2016-11-16T15:37:43,2016,11,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,82,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.664333,-132.9855,2004-08-25T19:31:00,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,246,8.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.7075,-165.7892,2002-06-16T19:17:04,2002,6,16,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,112,5.32,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.279667,-150.263167,2015-08-21T20:39:00,2015,8,21,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,128,7.61,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9302,-152.7105,2010-10-06T12:54,2010,10,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,113,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.743003,-153.377825,2016-11-18T16:05:22,2016,11,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,12,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.950473,-152.688591,2020-08-08T11:31:33,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,101,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.322833,-149.265333,2015-08-20T09:03:29,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2497,7.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.361247,-149.76387,2013-07-16T06:17:33,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,120,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.877604,-152.766052,2020-09-04T12:26:19,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,90,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.198938,-149.691903,2013-07-16T13:40:28,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,75,7.43,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1775,-168.9915,2002-07-27T11:03:30,2002,7,27,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,217,5.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4698,-155.8867,2000-06-10T12:51:36,2000,6,10,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,195,6.82,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.767082,-143.97173,2013-06-30T15:31:23,2013,6,30,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3840,7.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.218303,-149.530228,2013-07-16T10:55:31,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,76,7.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9548,-152.6044,2012-08-17T15:24,2012,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,144,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.516,-166.5838,2010-06-18T18:10:51,2010,6,18,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,125,5.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.551,-151.756333,2015-08-13T16:43:42,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4748,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.2785,-149.219667,2015-08-20T08:45:51,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2929,7.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-134.5,2006-10-26T00:00:00,2006,10,26,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2855,9.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.5,-132.5,2006-10-22T00:00:00,2006,10,22,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2785,10.21,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.008502,-143.491813,2013-06-30T10:46:24,2013,6,30,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3736,8.04,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.53557,-150.75604,2013-07-17T20:23:16,2013,7,17,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,91,7.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.708577,-147.606462,2013-07-12T11:41:08,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2421,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0032,-165.1623,2008-06-09T19:10:19,2008,6,9,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,57,3.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4748,-155.6973,2000-06-10T12:19:18,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,272,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.36,-160.5,2019-05-30T15:46:14,2019,5,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,26,6.15,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.771,-132.557333,2004-08-25T22:05:04,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,388,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9424,-152.6059,2014-07-24T14:43,2014,7,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,118,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9177,-152.6503,2012-08-31T12:14,2012,8,31,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,104,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.51088,-146.993837,2013-07-12T14:13:16,2013,7,12,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2255,7.99,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4502,-156.759,2003-06-27T15:58:54,2003,6,27,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,106,6.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.1619,-152.277,2008-07-14T12:07,2008,7,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,62,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.793979,-153.506999,2012-06-24T11:06:05,2012,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,151,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.954327,-152.672172,2020-08-08T11:54:53,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,111,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.774358,-136.824995,2013-06-23T17:53:49,2013,6,23,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2155,9.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-06-24T12:38:02,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.974133,-153.077183,2007-07-11T13:17,2007,7,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,83,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9451,-152.5858,2013-09-18T12:12,2013,9,18,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,104,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.977,-152.5841,2011-07-28T13:39,2011,7,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,117,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9517,-152.6235,2014-07-04T13:50,2014,7,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.7545,-132.5535,2004-08-25T21:58:50,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,415,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872583,-152.794114,2011-10-13T15:33,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,48,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.615487,-149.795494,2024-06-08T15:45,2024,6,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,64,7.58,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.826667,-132.570167,2004-08-25T22:22:13,2004,8,25,4,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,347,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.5607,-166.5868,2010-06-18T18:24:48,2010,6,18,4,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,120,5.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8703,-152.7235,2012-06-02T13:45,2012,6,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,43,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4728,-155.795,2000-06-10T12:35:45,2000,6,10,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,193,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.7423,-165.7705,2008-06-10T07:47:20,2008,6,10,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,77,3.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.999815,-146.59483,2013-07-02T20:21:17,2013,7,2,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4757,7.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-06-24T12:47:56,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9115,-164.0027,2000-06-16T18:18:23,2000,6,16,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,69,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9743,-153.0317,2011-08-17T12:11,2011,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,65,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9579,-152.6497,2011-05-30T11:02,2011,5,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.797909,-153.510962,2015-09-04T17:29:08,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.055833,-149.370667,2015-08-20T17:58:44,2015,8,20,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,192,7.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.999667,-152.097333,2015-07-27T07:46:59,2015,7,27,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,129,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.905111,-152.130997,2022-09-02T06:39:02,2022,9,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,88,6.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.927809,-152.700454,2020-08-08T11:15:16,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.776696,-153.45552,2016-11-16T15:37:25,2016,11,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,82,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.390898,-146.563573,2013-07-12T17:09:01,2013,7,12,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4708,7.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8561,-153.4413,2007-02-06T10:44,2007,2,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.020833,-149.956333,2015-08-20T13:44:57,2015,8,20,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,272,7.38,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.967,-152.5937,2011-10-04T14:51,2011,10,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,144,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.7342,-166.9198,2008-06-13T11:59:48,2008,6,13,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,133,5.34,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9078,-165.1587,2008-06-09T18:40:35,2008,6,9,3,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,74,3.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.924417,-152.685619,2020-10-16T13:11:50,2020,10,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.022646,-153.4021,2017-07-08T11:15:32,2017,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.69,-147.8445,2015-07-25T09:42:33,2015,7,25,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,78,7.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-08-11T03:15:19,2012,8,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5823,-155.372,2003-06-28T12:44:54,2003,6,28,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,79,6.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.596,-167.3148,2008-07-30T15:52:34,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,512,5.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4021,-153.825,2008-07-10T16:53,2008,7,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,138,6.76,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.42322,-146.61609,2013-07-12T17:26:29,2013,7,12,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4617,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.772,-165.7715,2008-06-10T07:38:43,2008,6,10,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,82,3.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.884599,-152.705134,2017-10-11T11:02:03,2017,10,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,73,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.875696,-152.747882,2017-09-15T11:05:53,2017,9,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,74,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9276,-152.6489,2009-10-02T11:05,2009,10,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,106,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.955582,-152.62872,2021-08-19T13:04:17,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.437348,-148.283293,2013-07-09T22:39:13,2013,7,9,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4343,7.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.688992,-146.357342,2013-07-13T18:44:09,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4423,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5527,-155.4228,2003-06-28T12:32:42,2003,6,28,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,77,6.54,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.768,-155.9072,2003-06-28T14:53:19,2003,6,28,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,272,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9359,-152.8446,2013-06-30T12:17,2013,6,30,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,-2,6.74,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8837,-152.6924,2012-06-02T14:20,2012,6,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,49,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9695,-152.6573,2009-07-31T14:07,2009,7,31,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,123,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.965927,-148.846883,2013-07-10T10:26:01,2013,7,10,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,679,7.78,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.6767,-165.1527,2008-06-09T17:28:00,2008,6,9,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,74,3.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.76046,-136.958282,2013-06-23T18:23:48,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2170,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.3192,-149.698853,2013-07-16T07:59:50,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,111,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.907043,-152.704171,2020-10-16T11:15:08,2020,10,16,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,94,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.6148,-167.3422,2008-07-30T15:45:22,2008,7,30,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,517,5.48,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.755167,-132.562167,2004-08-26T14:56:28,2004,8,26,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,422,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.385473,-149.804853,2013-07-16T06:03:39,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,125,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.871709,-153.544356,2015-09-08T10:38:07,2015,9,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,211,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.4498,-147.1408,2003-07-12T17:59:29,2003,7,12,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,206,8.22,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.178639,-169.079361,2024-09-06T10:43,2024,9,6,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,2000,5.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.709,-165.7685,2008-06-10T07:57:10,2008,6,10,5,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,70,3.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9505,-153.6478,2003-07-01T13:19:31,2003,7,1,7,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,61,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T13:07:06,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.954356,-152.633341,2020-08-17T12:59:08,2020,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.823255,-141.507675,2013-06-24T17:56:36,2013,6,24,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3607,8.16,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4372,-162.18,2002-06-09T12:16:06,2002,6,9,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,64,4.57,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.925933,-152.630333,2010-07-15T13:23,2010,7,15,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,67,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4383,-166.8266,2007-10-14,2007,10,14,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,139,5.39,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9713,-153.0808,2007-06-26T15:44,2007,6,26,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,83,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0,-152.6036,2011-09-23T15:34,2011,9,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.784762,-153.476687,2016-07-13T10:35:05,2016,7,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9721,-152.5737,2011-09-27T14:19,2011,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,164,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.727667,-132.9365,2015-09-19T10:14:32,2015,9,19,5,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,191,8.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.126387,-149.16497,2013-07-14T15:43:56,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,157,7.94,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.126295,-147.69706,2013-07-11T11:46:58,2013,7,11,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2270,7.85,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.266667,-150.379,2015-08-21T20:15:54,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,135,7.58,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.4325,-153.8214,2007-02-08T16:44,2007,2,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,55,6.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9295,-153.7355,2003-07-01T13:04:02,2003,7,1,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,55,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.497148,-148.122228,2013-07-11T19:07:54,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1818,8.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.004,-152.7938,2003-07-02T18:47:37,2003,7,2,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,168,6.86,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.024333,-149.279167,2015-08-20T18:18:04,2015,8,20,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,176,7.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.874283,-142.149343,2013-06-25T06:03:06,2013,6,25,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3663,8.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.903005,-152.714573,2020-08-08T10:56:58,2020,8,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,71,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.929189,-152.647831,2019-08-25T13:20:46,2019,8,25,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,106,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.906393,-152.697455,2016-11-11T11:43,2016,11,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,77,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-136.5,2006-12-20T00:00:00,2006,12,20,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3531,9.32,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.886322,-148.162773,2013-07-14T11:21:00,2013,7,14,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,332,8.14,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9335,-165.2197,2000-06-18T20:27:57,2000,6,18,6,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,74,3.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.2102,-154.8518,2003-06-29T20:51:36,2003,6,29,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,91,6.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9943,-152.6018,2011-10-04T14:35,2011,10,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8457,-164.0108,2000-06-16T09:41:05,2000,6,16,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,92,5.26,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.554138,-142.749752,2013-06-25T21:57:24,2013,6,25,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3742,8.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.903312,-152.682481,2020-10-09T11:37:47,2020,10,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,74,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.620833,-151.9355,2015-08-13T15:58:53,2015,8,13,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4414,6.87,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.952639,-152.625533,2021-08-19T12:49:56,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8719,-152.3965,2009-08-19T11:03,2009,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,108,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8791,-152.701,2010-06-10T13:58,2010,6,10,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,55,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.017846,-152.465841,2014-09-20T15:12,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.59,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.631833,-151.7435,2015-08-13T18:43:20,2015,8,13,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4784,6.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9877,-152.7112,2013-07-07T15:05,2013,7,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,19,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.758,-136.980545,2013-06-23T18:28:53,2013,6,23,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,2172,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.924614,-152.723035,2019-09-27T12:06:01,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9415,-152.6641,2009-06-12T11:16,2009,6,12,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,107,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.6312,-153.9638,2008-07-11T11:03,2008,7,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,58,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.626667,-132.728167,2015-07-15T08:09:07,2015,7,15,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,101,8.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.188177,-144.014183,2013-06-26T11:07:07,2013,6,26,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3872,7.7,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9695,-152.6222,2011-07-01T15:48,2011,7,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,137,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.442333,-136.978333,2015-09-16T17:48:47,2015,9,16,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1944,9.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.35632,-149.759532,2013-07-16T08:21:54,2013,7,16,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,112,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.766333,-152.531667,2015-08-16T20:50:13,2015,8,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,155,7.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.6114,-153.9649,2008-07-11T10:58,2008,7,11,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,44,6.89,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.085848,-143.483237,2013-06-26T19:28:09,2013,6,26,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3859,7.77,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.881377,-152.764534,2020-09-04T12:33:57,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,90,6.67,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.287917,-150.114718,2013-07-08T09:46:49,2013,7,8,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,1538,7.59,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.6605,-152.997167,2015-08-10T11:57:21,2015,8,10,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,82,6.94,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.327153,-149.717043,2013-07-16T09:28:30,2013,7,16,3,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,107,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.15,-136.746667,2015-09-17T12:31:03,2015,9,17,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,2074,9.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.711667,-152.528333,2015-08-16T13:57:03,2015,8,16,3,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,151,7.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9085,-152.6659,2012-06-13T10:46,2012,6,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,83,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.955416,-152.567142,2020-08-17T13:32:36,2020,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,136,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.314788,-144.591553,2013-07-01T09:11:48,2013,7,1,,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3770,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8741,-152.7159,2012-06-02T13:29,2012,6,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,26,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.340822,-148.810012,2013-07-14T06:36:33,2013,7,14,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,143,7.98,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.340963,-149.734543,2013-07-16T08:13:26,2013,7,16,6,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,106,7.45,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.975883,-149.183993,2013-07-08T16:05:10,2013,7,8,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,5083,7.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,60.1168,-147.1242,2003-07-13T10:20:53,2003,7,13,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,221,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5,-143.5,2007-02-08T00:00:00,2007,2,8,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3807,7.78,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.086358,-143.554323,2013-06-30T12:41:38,2013,6,30,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3638,8.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.752895,-146.305338,2013-07-13T15:44:11,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4319,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.962309,-152.642213,2014-09-20T13:26,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,133,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.876667,-148.850833,2015-08-20T19:50:08,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1222,7.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.984268,-152.599596,2014-09-20T13:54,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,119,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.632833,-140.612,2015-09-12T12:24:03,2015,9,12,4,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,141,8.53,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9705,-153.5615,2003-07-01T13:34:26,2003,7,1,4,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,45,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.0157,-156.3772,2003-06-28T19:18:30,2003,6,28,3,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,139,6.52,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0165,-151.859,2015-07-27T16:51:46,2015,7,27,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,157,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.931248,-152.660156,2019-09-27T13:10:18,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,105,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.972,-168.8403,2002-07-27T12:11:59,2002,7,27,4,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,761,5.25,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9133,-153.8073,2003-07-01T12:51:19,2003,7,1,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,164,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.064393,-148.406392,2013-07-14T09:27:08,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,195,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8882,-162.1783,2000-06-13T21:57:34,2000,6,13,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,63,3.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2012-07-23T21:07:54,2012,7,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.872111,-153.522506,2015-06-24T12:12:27,2015,6,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,217,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.478019,-149.112588,2023-07-08T08:58:31,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,200,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9996,-152.6052,2011-09-23T15:33,2011,9,23,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9273,-152.6491,2009-10-02T11:05,2009,10,2,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,106,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.113,-150.3185,2015-08-15T18:23:03,2015,8,15,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,4157,6.94,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-145.5,2007-01-11T00:00:00,2007,1,11,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3946,7.49,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.3898,-158.5235,2000-06-10T20:22:01,2000,6,10,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,148,6.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.504333,-149.782,2015-08-22T12:04:38,2015,8,22,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,181,7.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.7915,-165.1555,2008-06-09T18:04:05,2008,6,9,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,74,3.77,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.900103,-152.746364,2019-09-27T11:43:51,2019,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4685,-155.9257,2000-06-10T12:58:29,2000,6,10,1,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,196,6.79,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.876605,-152.711373,2011-10-13T13:36,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,41,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.94467,-152.653948,2019-10-03T12:12:17,2019,10,3,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,109,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9552,-152.6527,2011-09-27T12:37,2011,9,27,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9208,-152.6779,2013-08-22T12:55,2013,8,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,106,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.891258,-152.700165,2017-09-20T14:16:04,2017,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,73,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8548,-165.1577,2008-06-09T18:24:02,2008,6,9,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,70,3.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9365,-152.6374,2015-10-22T14:38,2015,10,22,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,103,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.8945,-152.7211,2011-07-01T10:54,2011,7,1,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,55,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.327163,-149.704372,2013-07-16T09:44:31,2013,7,16,5,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,114,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.901859,-153.537266,2015-09-07T12:56:21,2015,9,7,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9938,-162.17,2000-06-13T21:24:51,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,57,3.73,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.4732,-155.7787,2000-06-10T12:32:56,2000,6,10,5,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,191,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8623,-157.2783,2010-06-08T15:13:19,2010,6,8,2,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,90,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-133.5,2006-10-25T00:00:00,2006,10,25,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2260,9.81,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.0752,-148.422143,2013-07-14T09:20:37,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,188,8.09,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.75746,-146.313983,2013-07-13T15:43:32,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4303,8.11,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.283865,-149.633035,2013-07-16T10:12:39,2013,7,16,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,93,7.47,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.942,-153.2923,2008-07-09T10:28,2008,7,9,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,144,6.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.50409,-148.377343,2013-07-11T15:45:46,2013,7,11,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,642,8.02,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.680667,-132.539,2004-08-25T21:36:18,2004,8,25,,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,219,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.863,-147.230667,2015-07-24T18:39:17,2015,7,24,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,122,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.1628,-152.2844,2008-07-14T12:27,2008,7,14,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,64,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.001451,-152.605763,2018-08-24T14:14:43,2018,8,24,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,120,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.90379,-152.690559,2012-06-19T12:40,2012,6,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,68,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.74349,-146.282175,2013-07-13T15:58:25,2013,7,13,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4403,8.08,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.926,-156.4633,2003-06-28T18:46:18,2003,6,28,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,47,6.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.94513,-148.245848,2013-07-14T10:47:24,2013,7,14,1,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,271,8.12,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.31,-150.111667,2015-08-21T21:09:17,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,159,7.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.991245,-153.437907,2024-07-29T10:42:39,2024,7,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,139,6.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.954525,-152.634312,2021-08-19T12:58:40,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.7918,-152.3635,2003-07-02T16:04:04,2003,7,2,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,130,6.84,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.90031,-152.746277,2020-09-04T12:47:22,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.1871,-169.3782,2014-07-13,2014,7,13,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,83,2.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,52.5,-133.5,2007-02-21T00:00:00,2007,2,21,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2596,9.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.392557,-144.531465,2013-07-01T09:46:34,2013,7,1,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3745,8.06,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.6885,-132.388,2004-08-25T21:38:49,2004,8,25,2,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,147,8.97,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.445,-136.985333,2015-09-16T17:50:25,2015,9,16,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,1964,9.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.912962,-152.653342,2024-08-29T10:44:42,2024,8,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,71,6.6,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.964507,-152.622965,2024-08-29T13:10:32,2024,8,29,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,141,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.1672,-162.0275,2000-06-13T20:07:41,2000,6,13,2,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,36,3.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.674588,-142.411468,2013-06-28T11:35:07,2013,6,28,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,3616,7.95,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.6913,-162.0909,2012-07-11,2012,7,11,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,4210,6.64,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.0665,-149.406667,2015-08-20T17:51:13,2015,8,20,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,197,7.62,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.020098,-148.71665,2013-07-14T13:46:23,2013,7,14,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,222,8.01,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.801017,-153.513536,2015-09-04T16:35:15,2015,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,125,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.492187,-149.127258,2023-07-08T09:10:41,2023,7,8,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,205,7.9,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.926501,-152.69897,2015-10-13T13:56,2015,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,135,6.68,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.981872,-152.604971,2014-09-20T13:50,2014,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,134,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,51.5,-141.5,2006-11-16T00:00:00,2006,11,16,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3784,8.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9445,-151.944,2015-07-27T17:19:12,2015,7,27,4,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,193,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.876409,-152.711525,2011-10-13T13:36,2011,10,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,41,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5,-139.5,2006-10-29T00:00:00,2006,10,29,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,3551,8.57,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.06957,-148.874082,2013-07-07T11:41:57,2013,7,7,2,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,5065,7.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.5,-136.5,2006-10-27T00:00:00,2006,10,27,1,HumanObservation,TOPP Summary of SSM-derived Telemetry,Fin whale,2899,9.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.04,-152.874,2003-07-02T19:04:49,2003,7,2,2,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,155,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.5987,-155.9392,2003-06-28T09:50:34,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,264,6.69,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.776611,-153.438051,2017-09-13T15:36:07,2017,9,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,99,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.736,-158.5781,2007-07-08,2007,7,8,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,5703,6.83,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9513,-152.5915,2012-08-17T15:10,2012,8,17,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,142,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.95256,-152.636244,2021-08-19T12:50:06,2021,8,19,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,127,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,53.5728,-148.0445,2011-07-10,2011,7,10,,HumanObservation,EC-CWS Eastern Canada Seabirds at Sea,Fin Whale,3721,7.07,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1892,-166.4158,2002-06-18T18:59:38,2002,6,18,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,111,5.0,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.8992,-162.1777,2000-06-13T21:54:12,2000,6,13,3,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,63,3.88,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.913955,-152.684717,2017-09-20T10:46:02,2017,9,20,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,95,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,54.737167,-132.532833,2004-08-25T21:54:09,2004,8,25,1,HumanObservation,Lamont-Doherty/LGL/NSF cruises,Fin whale,442,8.93,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.1515,-156.3023,2003-06-27T20:55:03,2003,6,27,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,220,6.61,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.4958,-155.5053,2003-06-28T12:10:44,2003,6,28,5,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,68,6.53,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.807,-152.054333,2015-07-27T09:45:46,2015,7,27,2,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,132,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,59.251167,-150.618167,2015-08-21T18:22:01,2015,8,21,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,109,7.51,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.670392,-145.675987,2013-07-02T11:45:02,2013,7,2,4,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,4284,8.1,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.776611,-153.438051,2017-09-13T13:07:12,2017,9,13,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,99,6.92,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.9977,-152.6053,2011-06-05T16:15,2011,6,5,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,130,6.63,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.717,-155.7043,2003-06-28T14:13:49,2003,6,28,1,HumanObservation,NMML Gulf of Alaska marine mammal survey 2003,Fin whale,248,6.66,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,58.300067,-149.666777,2013-07-16T07:48:29,2013,7,16,6,HumanObservation,GOALS Vessel Surveys June - July 2013,Fin whale,104,7.42,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,55.8245,-157.5525,2010-06-08T16:00:35,2010,6,8,1,HumanObservation,NMML 2002-2010 Bering Sea Shelf Cetacean Survey,Fin whale,109,6.56,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.902711,-152.744762,2020-09-04T12:47:33,2020,9,4,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,126,6.65,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,56.9108,-162.7872,2000-06-14T21:21:52,2000,6,14,3,HumanObservation,NMML Bering Sea Cetacean Survey 2000,Fin whale,65,3.8,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.984499,-153.342333,2003-08-28T10:09,2003,8,28,1,HumanObservation,Happywhale - Fin whale in North Pacific Ocean,Fin whale,62,6.91,Fin Whale,Balaenoptera physalus
+Balaenoptera physalus,57.244167,-149.184667,2015-08-20T08:28:58,2015,8,20,1,HumanObservation,"SWFSC Marine Mammal Survey, CLAWS 2015, Cruise 1648",Fin whale,3148,7.61,Fin Whale,Balaenoptera physalus

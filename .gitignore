@@ -1,0 +1,29 @@
+# Raw AIS data (10+ GB, must be obtained from NOAA separately)
+ais-2024-*.csv
+data/raw/ships/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+.venv/
+env/
