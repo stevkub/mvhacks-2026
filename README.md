@@ -9,7 +9,7 @@ If you just want to see the outputs, open these files in a browser — no setup 
 - **`whale_ship_map.html`** — Interactive multi-layer risk map with route simulation
 - **`nn_collision_report.html`** — Neural network prediction report with maps and charts
 
-## Setup (Full Pipeline)
+## Setup
 
 ### 1. Clone the repo
 
@@ -38,7 +38,7 @@ python generate_map.py
 python nn_collision_model.py
 ```
 
-### 4. (Optional) Full pipeline from scratch
+### 4. Full pipeline from scratch
 
 To rebuild everything from raw data, you need the AIS ship data files from NOAA.
 
@@ -46,7 +46,7 @@ To rebuild everything from raw data, you need the AIS ship data files from NOAA.
 
 Download monthly AIS CSV files from [NOAA Marine Cadastre](https://marinecadastre.gov/ais/). You need one file per month named `ais-2024-MM-01.csv` (e.g., `ais-2024-01-01.csv` through `ais-2024-12-01.csv`), placed in the project root.
 
-These are ~750 MB–1 GB each (~10.3 GB total) which is why they aren't included in the repo.
+For 2024, these are ~750 MB–1 GB each (~10.3 GB total) which is why they aren't included in the repo.
 
 #### Download whale data from OBIS
 
