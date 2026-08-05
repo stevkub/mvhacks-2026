@@ -1,3 +1,6 @@
+# edit - won 2nd place https://mvhacks-9-0.devpost.com/project-gallery
+# thank you to all the organizers and sponsors for an amazing experience!!
+
 # Deep Route - Whale/Ship Collision Risk Analysis
 
 Predicting and preventing whale-ship collisions using 7.7M ship records, 310K whale sightings, and a PyTorch neural network.
